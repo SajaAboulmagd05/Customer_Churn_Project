@@ -1,0 +1,21 @@
+# Data
+data/*.csv
+data/*.xlsx
+
+# Models (usually regenerated, not committed)
+models/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
